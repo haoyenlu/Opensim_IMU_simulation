@@ -1,0 +1,49 @@
+gait2392:
+  STRN: Sternum
+  RSHO: R.Acromium
+  LSHO: L.Acromium
+  R.Knee: R.Knee.Lat
+  R.HF: R.Shank.Upper
+  R.TT: R.Shank.Front
+  R.MT1: R.Toe.Tip
+  R.MT5: R.Toe.Lat
+  L.Knee: L.Knee.Lat
+  L.HF : L.Shank.Upper
+  L.TT : L.Shank.Front
+  L.MT1 : L.Toe.Tip
+  L.MT5 : L.Toe.Lat
+
+FullBodyModel:
+  RSHO: RACR
+  LSHO: LACR
+  RUPA: RUA3
+  REL: RLEL
+  REM: RMEL
+  RFRA: RFAsuperior
+  RWL: RFAradius
+  RWM: RFAulna
+  LUPA: LUA3
+  LEL: LLEL
+  LEM: LMEL
+  LFRA: LFAsuperior
+  LWL: LFAradius
+  LWM: LFAulna
+  R.ASIS: RASI
+  L.ASIS: LASI
+  R.PSIS: RPSI
+  L.PSIS: LPSI
+  R.Knee: RLFC
+  R.Ankle: RLMAL
+  R.Heel: RCAL
+  R.MT1: RTOE
+  R.MT5: RMT5
+  L.Knee: LLFC
+  L.Ankle: LLMAL
+  L.Heel: LCAL
+  L.MT1: LTOE
+  L.MT5: LMT5
+  R.Knee.Medial: RMFC
+  R.Ankle.Medial: RMMAL
+  L.Knee.Medial: LMFC
+  L.Ankle.Medial: LMMAL
+
