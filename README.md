@@ -26,6 +26,8 @@ The pipeline to synthesize IMU data follows:
 6. Use Opensim MocoInverse to calculate the solution for virtual IMU signal with the result from inverse kinematic tool
 7. Get the IMU signal from the Opensim Table data structure
 
+## Environment Setup
+Follow the step in ProcessTrialC3D.ipynb notebook to set up the environment and download the library for the pipeline.
 
 
 ## Simulation Example
