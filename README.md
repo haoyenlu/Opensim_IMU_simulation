@@ -29,14 +29,18 @@ The pipeline to synthesize IMU data follows:
 
 
 ## Simulation Example
-### Videl
-https://github.com/user-attachments/assets/48dfdba9-0303-45d6-aa2d-d4ce15f02ab4
+### Inverse Kinematic Result
+<p align="middle">
+<video src="https://github.com/user-attachments/assets/48dfdba9-0303-45d6-aa2d-d4ce15f02ab4">
+</p>
+  
+### IMU  Signal
 
-### Accelerometer Signal
-![accelerometer](https://github.com/user-attachments/assets/3ed53104-4c9f-4f29-9046-378aa426b82c)
+<p float="left" align="middle">
+  <img src="https://github.com/user-attachments/assets/3ed53104-4c9f-4f29-9046-378aa426b82c" width=40% height=50%>
+  <img src="https://github.com/user-attachments/assets/9b0b1cb7-c6ff-4017-a4df-22e0bd461521" width=40% height=50%>
+</p>
 
-### Gyroscope Signal
-![gyroscope](https://github.com/user-attachments/assets/9b0b1cb7-c6ff-4017-a4df-22e0bd461521)
 
 
 ## Reference:
